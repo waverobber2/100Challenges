@@ -1,0 +1,29 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Start Here.txt" />
+  </Folder>
+  <Project Path="Exercise_1.UnitTests/Exercise_1.UnitTests.csproj" />
+  <Project Path="Exercise_1/Exercise_1.csproj" />
+  <Project Path="Exercise_10.UnitTests/Exercise_10.UnitTests.csproj" Id="90f21103-9731-46fa-8ebb-5e1daf549292" />
+  <Project Path="Exercise_10/Exercise_10.csproj" Id="f588272b-6177-4b83-99b7-105d858692f0" />
+  <Project Path="Exercise_100.UnitTests/Exercise_100.UnitTests.csproj" Id="3f0c0d59-18d1-4cc7-b685-df72f3de8295" />
+  <Project Path="Exercise_100/Exercise_100.csproj" Id="fe433641-be1f-4c91-8ddf-72088e4cebf5" />
+  <Project Path="Exercise_11.UnitTests/Exercise_11.UnitTests.csproj" Id="477eec0a-8eae-47cb-bf14-0665083d2b2e" />
+  <Project Path="Exercise_11/Exercise_11.csproj" Id="fc171a9b-6b6d-415a-86f4-c2f7bb39b0d7" />
+  <Project Path="Exercise_2.UnitTests/Exercise_2.UnitTests.csproj" Id="296a81bb-cd9d-4679-9167-b4492f118b21" />
+  <Project Path="Exercise_2/Exercise_2.csproj" Id="3cf35c4a-a4d1-4876-9b67-1d127858ca34" />
+  <Project Path="Exercise_3.UnitTests/Exercise_3.UnitTests.csproj" Id="218befdf-c2ab-4ea3-9c03-7071d5739976" />
+  <Project Path="Exercise_3/Exercise_3.csproj" Id="70a5c509-5855-45ff-9b55-fcfaf7e55977" />
+  <Project Path="Exercise_4.UnitTests/Exercise_4.UnitTests.csproj" Id="df2e8e29-070c-4717-800d-006347f54d4e" />
+  <Project Path="Exercise_4/Exercise_4.csproj" Id="b9f6a400-77a6-4055-b9d6-a06faea7c13f" />
+  <Project Path="Exercise_5.UnitTests/Exercise_5.UnitTests.csproj" Id="c78bfc83-121f-4103-9b06-02bd2ef74081" />
+  <Project Path="Exercise_5/Exercise_5.csproj" Id="5f61265a-3863-466c-b5be-a9bdda2a9c21" />
+  <Project Path="Exercise_6.UnitTests/Exercise_6.UnitTests.csproj" Id="6f7f9262-c74b-4b5a-b5e8-4e2e8f3856eb" />
+  <Project Path="Exercise_6/Exercise_6.csproj" Id="c5f74d25-11fa-43e0-ab43-6f85ca12345d" />
+  <Project Path="Exercise_7.UnutTests/Exercise_7.UnutTests.csproj" Id="65db3b75-ff16-445c-a10d-71548dcfcf93" />
+  <Project Path="Exercise_7/Exercise_7.csproj" Id="a6bb0f63-efea-4e59-b435-9aacf3524aa9" />
+  <Project Path="Exercise_8.UnitTests/Exercise_8.UnitTests.csproj" Id="7e0d56c4-6a20-433d-a353-a37cbea1e589" />
+  <Project Path="Exercise_8/Exercise_8.csproj" Id="e14e4dde-fb5a-4dfd-a649-211131b1450a" />
+  <Project Path="Exercise_9.UnitTests/Exercise_9.UnitTests.csproj" Id="8784184d-3f1c-4175-a156-e2314662b350" />
+  <Project Path="Exercise_9/Exercise_9.csproj" Id="abf3e7bf-08fd-4aaf-bd66-34014404d50c" />
+</Solution>
